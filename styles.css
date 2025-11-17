@@ -48,7 +48,7 @@ label {
   width: 100%;
   border: none;
   border-radius: 8px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   outline: none;
 }
 
@@ -97,7 +97,7 @@ button[type="submit"]:hover {
 .weather-icon {
   width: 100px;
   height: 100px;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .weather-content {
@@ -129,9 +129,10 @@ button[type="submit"]:hover {
   background-color: rgba(255, 0, 0, 0.15);
   padding: 15px;
   border-radius: 10px;
-  margin-top: 15px;
+  margin-top: 10px;
   text-align: center;
   width: 90%;
   max-width: 400px;
 }
+
 
